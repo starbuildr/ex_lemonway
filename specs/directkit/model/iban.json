@@ -1,0 +1,8 @@
+{  
+  "ID": "string",
+  "S": "string",
+  "DATA": "string",
+  "SWIFT": "string",
+  "HOLDER": "string",
+  "TYPE": "string"
+}

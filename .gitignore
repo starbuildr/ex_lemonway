@@ -6,4 +6,6 @@
 erl_crash.dump
 *.ez
 *.beam
+.elixir_ls
 /config/*.secret.exs
+/test/support/fixture/vcr_cassettes/lemonway

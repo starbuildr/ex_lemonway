@@ -1,0 +1,8 @@
+{  
+  "IS3DS": "string",
+  "CTRY": "string",
+  "AUTH": "string",
+  "NUM": "string",
+  "EXP": "string",
+  "TYP": "string"
+}

@@ -1,0 +1,6 @@
+{  
+  "ID": "sddMandateId",
+  "S": "status",
+  "DATA": "iban",
+  "SWIFT": "swiftCode"
+}

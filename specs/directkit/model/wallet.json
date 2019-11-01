@@ -1,0 +1,42 @@
+{  
+  "ID": "string",
+  "BAL": "string",
+  "NAME": "string",
+  "EMAIL": "string",
+  "DOCS": [  
+    "Doc"
+  ],
+  "IBANS": [  
+    "Iban"
+  ],
+  "STATUS": "string",
+  "BLOCKED": "1",
+  "SDDMANDATES": [  
+    "SddMandate"
+  ],
+  "LWID": "string",
+  "CARDS": [  
+    "Card"
+  ],
+  "FirstName": "string",
+  "LastName": "string",
+  "CompanyName": "string",
+  "CompanyDescription": "string",
+  "CompanyWebsite": "string",
+  "Nationality": "string",
+  "BirthDate": "string",
+  "BirthCity": "string",
+  "BirthCountry": "string",
+  "CompanyIdentificationNumber": "string",
+  "ClientTitle": "string",
+  "Street": "string",
+  "PostCode": "string",
+  "City": "string",
+  "Country": "string",
+  "PhoneNumber": "string",
+  "MobileNumber": "string",
+  "IsCompany": "string",
+  "IsOneTimeCustomer": "string",
+  "IsTechWallet": "string",
+  "LIMITS": "WalletLimit"
+}
